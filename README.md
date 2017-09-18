@@ -1,3 +1,3 @@
 # koriander
-En smak av krydder \n
-Tidenes kuleste repository! 
+// En smak av krydder 
+// Tidenes kuleste repository! 
